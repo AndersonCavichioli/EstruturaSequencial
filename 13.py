@@ -10,5 +10,5 @@ a = (72.7*h) - 58
 b = (62.1*h) - 44.7
 
 #saída do resultado para ambos os sexos
-print("o peso idel para homem com essa altura: {:.2f}kg" .format(a))
-print("o peso idel para mulher com essa altura: {:.2f}kg" .format(b))
+print("o peso ideal para homem com essa altura: {:.2f}kg" .format(a))
+print("o peso ideal para mulher com essa altura: {:.2f}kg" .format(b))
