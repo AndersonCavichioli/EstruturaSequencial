@@ -10,4 +10,4 @@ velocidade = float(input("Digite a velocidade da internet: "))
 tempo = tamanho / velocidade
 minutos = ceil(tempo / 60)
 
-print("O arquivo levará ", minutos, "minutos para ficar pronto")
+print("O arquivo levará {} minutos para ser baixado".format(minutos))
